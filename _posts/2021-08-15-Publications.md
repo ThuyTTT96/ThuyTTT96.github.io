@@ -7,8 +7,8 @@ category:
 - docs
 ---
 
-## 1. Bi-directional intra prediction based measurement coding for compressive sensing images
-### Publised in <a href = "https://ieeexplore.ieee.org/xpl/conhome/9287028/proceeding">2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP)</a>
+### 1. Bi-directional intra prediction based measurement coding for compressive sensing images
+Publised in <a href = "https://ieeexplore.ieee.org/xpl/conhome/9287028/proceeding">2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP)</a>
 
 This work proposes a bi-directional intra predictionbased measurement coding algorithm for compressive sensing
 images. Compressive sensing is capable of reducing the size
@@ -35,8 +35,8 @@ to the state-of-the-art.
 If you are interested in this work, please find the paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287074" title="Title">here</a> and the code <a href = "https://github.com/ThuyTTT96/Bi-Intra-prediction-for-compressive-sensing-images"
 title = "Title">here.</a>
 
-## 2. Students’ Emotion extraction and visualization for engagement detection in online learning
-### Publised in <a href = "http://www.kesinternational.org/2021conferences.php">25th International Conference on Knowledge Based and Intelligent information and Engineering Systems(KES)</a>
+### 2. Students’ Emotion extraction and visualization for engagement detection in online learning
+Publised in <a href = "http://www.kesinternational.org/2021conferences.php">25th International Conference on Knowledge Based and Intelligent information and Engineering Systems(KES)</a>
 
 This paper focuses on analyzing online lecture videos to detect students’ engagement without relying on learning management systems produced data. Six types of basic emotions, namely ‘angry’, ‘disgust’, ‘fear’, ‘happy’, ‘sad’, ‘surprise’, ‘neutral’ are extracted using a pre-trained Convolutional Neural Network (CNN), and those are used to detect ‘Highly-engaged’, ‘Engaged’, and ‘Disengaged’ students in a virtual classroom. The results are visualized for engagement detection using visualization methods. Furthermore, this intelligent application, in real-time, is capable of recognizing multiple faces when multiple students share a single camera. Nonetheless, this educational application could be used for supporting collaborative learning, problem-based learning, and emotion-based grouping.
 
@@ -48,7 +48,7 @@ This paper focuses on analyzing online lecture videos to detect students’ enga
 >**Status: Accepted** 
 If you are interested in this work, please find the code <a href = "https://github.com/ThuyTTT96/engagement-detection" title = "Title">here.</a>
 ## 3. Briefing and Geovisualizing on International Practices of Learning Analytics in Higher Education
-### Publised in <a href = "https://tc.computer.org/tclt/icalt2021/">The 21st IEEE International Conference on Advanced Learning Technologies (ICALT)</a>
+Publised in <a href = "https://tc.computer.org/tclt/icalt2021/">The 21st IEEE International Conference on Advanced Learning Technologies (ICALT)</a>
 
 In higher education, learning analytics is trending
 for transforming teaching behavior, uncovering information on
@@ -61,13 +61,10 @@ learning environments, and addressing artificial intelligence issues in educatio
 
 >**Status: Accepted**
 
-## 3.Can Sakai Log Data Improve Learning Analytics? Findings from a Preliminary Survey
-### Publised in <a href = "https://tc.computer.org/tclt/icalt2021/">https://www.ipsj.or.jp/kenkyukai/event/cle33.html (CLE33)</a>
+### 4.Can Sakai Log Data Improve Learning Analytics? Findings from a Preliminary Survey
+Publised in <a href = "https://tc.computer.org/tclt/icalt2021/">https://www.ipsj.or.jp/kenkyukai/event/cle33.html (CLE33)</a>
 
 As learning analytics is getting maturity, higher educational institutions worldwide are becoming more interested in practicing learning analytics. Over the last decade, learning management systems (LMSs) such as Moodle, Canvas, Blackboard, Sakai were the primary sources for interaction data. This paper reviewed LAK, EDM, and ACM proceedings and associate journals to shed light on Sakai LMS's potential as it offers flexible tools for teaching, learning, and dynamic collaboration. In comparison with other LMSs, Sakai was less explored by the learning analytics community. This paper also discusses Sakai-generated data's potential to cope with future research trends in learning analytics where AI would be used to make a broader impact on education. The findings lead to- with the advances of AI in education, Sakai data could leverage in designing new methods and tools for decision making, augment learners' productivity, regulate self-learning and knowledge extraction. Sakai and sophisticated learning systems could show promises in conventional learning research, including at-risk detection, drop-out prediction, student modeling, behavior analysis, and the human learning process.    
-<figure class="aligncenter">
-	<img src="https://github.com/ThuyTTT96/ThuyTTT96.github.io/blob/main/images/CLE33.png?raw=true" />
-	<figcaption class="aligncenter"> </figcaption>
-</figure>
+
 
 >**Status: Accepted**
