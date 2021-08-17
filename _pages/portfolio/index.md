@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Portfolio"
+title:  "Portfolio Projects"
 permalink: "/portfolio/"
 ---
 ### 1. Smart Learning: student engagement prediction based student emotions and their eye gazes.
