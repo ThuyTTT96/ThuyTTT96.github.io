@@ -45,8 +45,8 @@ This paper focuses on analyzing online lecture videos to detect students’ enga
 	<figcaption class="aligncenter"> </figcaption>
 </figure>
 
->**Status: Accepted**
-
+>**Status: Accepted** 
+If you are interested in this work, please find the code <a href = "https://github.com/ThuyTTT96/engagement-detection" title = "Title">here.</a>
 ## 3. Briefing and Geovisualizing on International Practices of Learning Analytics in Higher Education
 ### Publised in <a href = "https://tc.computer.org/tclt/icalt2021/">The 21st IEEE International Conference on Advanced Learning Technologies (ICALT)</a>
 
