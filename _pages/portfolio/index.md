@@ -16,7 +16,7 @@ The project aim to develope a system that predict student engagement in online c
 title = "Title">here.</a>***
 
 ### 2. NLP data prediction models
-### In this project, I apply machine learning techniques to amazon's customer review dataset to classifier whether their reviews is positive or negative.
+In this project, I apply machine learning techniques to amazon's customer review dataset to classifier whether their reviews is positive or negative.
 The observation is each row in the review of amazon's customer and is not labeled yet.
  - Data cleansing:
 The *bag of words* technique and *count vectorize* are applied to tokenlize the text and stop the useless words in **review** observation.
