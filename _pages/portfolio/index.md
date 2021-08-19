@@ -4,7 +4,7 @@ title:  "Portfolio Projects"
 permalink: "/portfolio/"
 ---
 ### 1. Smart Learning: student engagement prediction based student emotions and their eye gazes.
-*My current project as a research assistant in Research Center for Computing and Multimedia Studies, Hosei University.*
+*My current project as a research assistant in Research Center for Computing and Multimedia Studies, Hosei University. Currently, it is under public, the code still be private.*
 
 The project aims to develop a system that predicts student engagement in online classes by analyzing their emotions and eye gazes. It was built by a three-member team. My role is using deep learning and machine learning technique to build face recognition for identifying student ID in class. I process and analyze the after-class dataset resulting in a clear explanation to stakeholders.
 
@@ -12,10 +12,12 @@ The project aims to develop a system that predicts student engagement in online 
 	<img width="1166" height="250" src="https://github.com/ThuyTTT96/ThuyTTT96.github.io/blob/main/images/StudentEL.png?raw=true">
 </figure>
 
-***If you are interested in this work, please find the code <a href = "https://github.com/ThuyTTT96/Engagement_Detection_Framework"
-title = "Title">here.</a>***
+
 
 ### 2. NLP data prediction models
+***If you are interested in this work, please find the code <a href = "https://github.com/ThuyTTT96/Data-Prediction-Models-and-NLP"
+title = "Title">here.</a>***
+
 In this project, I apply machine learning techniques to amazon's customer review dataset to classifier whether their reviews are positive or negative.
 The observation is each row in the review of amazon's customer and is not labeled yet.
  - Data cleansing:
@@ -42,6 +44,8 @@ This project aims to retrieve people in the school camera system by applying dee
 <iframe width="1166" height="656" src="https://www.youtube.com/embed/Ko8M0Uao6FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 3.2. Image style transfer
+***If you are interested in this work, please find the code <a href = "https://github.com/ThuyTTT96/Deep-Learning-Models"
+title = "Title">here.</a>***
 
 In this project, I use the vgg19 pretrained model to extract some of the layers in this network to define the representation of content and style from the image. 
 After the content and style features are extracted, those features are trained in VGG Network by using the torch library
@@ -50,3 +54,16 @@ After the content and style features are extracted, those features are trained i
 	<img src="https://github.com/ThuyTTT96/ThuyTTT96.github.io/blob/main/images/stytransfer.png?raw=true" />
 	<figcaption class="aligncenter"> </figcaption>
 </figure>
+
+#### 3.3. Face recognition
+
+***If you are interested in this work, please find the code <a href = "https://github.com/ThuyTTT96/Deep-Learning-Models/tree/main/facialrecognition"
+title = "Title">here.</a>***  
+In this project, I did real-time face recognition with only one image required in the database for each person.
+The model can detect and locate the face and embed the located face done with OpenCV libraries. It provides the pre-trained model used to generate 128 measurements for each input face. The network generates nearly the same numbers when looking at two different pictures of the same person else it generates different numbers when there are two different pictures of a different person.
+
+<figure class="alignleft">
+	<img src="https://github.com/ThuyTTT96/Deep-Learning-Models/blob/main/facialrecognition/imageBasic/result2.png?raw=true" />
+	<figcaption class="aligncenter"> </figcaption>
+</figure>
+
