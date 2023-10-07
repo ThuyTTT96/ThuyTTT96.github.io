@@ -4,33 +4,25 @@ title:  "Publications"
 permalink: "/Publication/"
 ---
 
+### 1. A Real-Time Learning Analytics Dashboard for Automatic Detection of Online Learners’ Affective States
+Publised in <a href = "https://www.mdpi.com/1424-8220/23/9/4243"> Sensors 23 (9), 2023 </a>
+**Abstract:** Students’ affective states describe their engagement, concentration, attitude, motivation, happiness, sadness, frustration, off-task behavior, and confusion level in learning. In online learning, students’ affective states are determinative of the learning quality. However, measuring various affective states and what influences them is exceedingly challenging for the lecturer without having real interaction with the students. Existing studies primarily use self-reported data to understand students’ affective states, while this paper presents a novel learning analytics system called MOEMO (Motion and Emotion) that could measure online learners’ affective states of engagement and concentration using emotion data. Therefore, the novelty of this research is to visualize online learners’ affective states on lecturers’ screens in real-time using an automated emotion detection process. In real-time and offline, the system extracts emotion data by analyzing facial features from the lecture videos captured by the typical built-in web camera of a laptop computer. The system determines online learners’ five types of engagement (“strong engagement”, “high engagement”, “medium engagement”, “low engagement”, and “disengagement”) and two types of concentration levels (“focused” and “distracted”). Furthermore, the dashboard is designed to provide insight into students’ emotional states, the clusters of engaged and disengaged students’, assistance with intervention, create an after-class summary report, and configure the automation parameters to adapt to the study environment.
+Keywords: AI in education; affective states detection; dashboard; learning analytics framework; emotion; lecture video analysis
+
+ <a href=" https://www.mdpi.com/1424-8220/23/9/4243" title="Title">PAPER</a> 
+
 ### 1. Bi-directional intra prediction based measurement coding for compressive sensing images
 Publised in <a href = "https://ieeexplore.ieee.org/xpl/conhome/9287028/proceeding">2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP)</a>
 
-This work proposes a bi-directional intra predictionbased measurement coding algorithm for compressive sensing
-images. Compressive sensing is capable of reducing the size
-of the sparse signals, in which the high-dimensional signals
-are represented by the under-determined linear measurements.
-In order to explore the spatial redundancy in measurements,
-the corresponding pixel domain information extracted using the
-structure of measurement matrix. Firstly, the mono-directional
-prediction modes (i.e. horizontal mode and vertical mode), which
-refer to the nearest information of neighboring pixel blocks, are
-obtained by the structure of the measurement matrix. Secondly,
-we design bi-directional intra prediction modes (i.e. Diagonal +
-Horizontal, Diagonal + Vertical) base on the already obtained
-mono-directional prediction modes. Experimental results show
-that this work improves 0.01 - 0.02 dB PSNR improvement and
-the birate reductions of on average 19%, up to 36% compared
-to the state-of-the-art.
+**Abstract:** This work proposes a bi-directional intra prediction-based measurement coding algorithm for compressive sensing images. Compressive sensing is capable of reducing the size of the sparse signals, in which the high-dimensional signals are represented by the under-determined linear measurements. In order to explore the spatial redundancy in measurements, the corresponding pixel domain information extracted using the structure of measurement matrix. Firstly, the mono-directional prediction modes (i.e. horizontal mode and vertical mode), which refer to the nearest information of neighboring pixel blocks, are obtained by the structure of the measurement matrix. Secondly, we design bi-directional intra prediction modes (i.e. Diagonal + Horizontal, Diagonal + Vertical) base on the already obtained mono-directional prediction modes. Experimental results show that this work improves 0.01 - 0.02 dB PSNR improvement and the birate reductions of on average 19%, up to 36% compared to the state-of-the-art.
 
 <figure class="aligncenter">
 	<img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9287028/9287048/9287074/tran3-p6-tran-small.gif" />
 	<figcaption class="aligncenter"> Bi-directional intra prediction for Compressive sensing framework</figcaption>
 </figure>
 
-If you are interested in this work, please find the paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287074" title="Title">here</a> and the code <a href = "https://github.com/ThuyTTT96/Bi-Intra-prediction-for-compressive-sensing-images"
-title = "Title">here.</a>
+ <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9287074" title="Title">Paper</a> and the code <a href = "https://github.com/ThuyTTT96/Bi-Intra-prediction-for-compressive-sensing-images"
+title = "Title">Code.</a>
 
 ### 2. Students’ Emotion extraction and visualization for engagement detection in online learning
 Publised in <a href = "http://www.kesinternational.org/2021conferences.php">25th International Conference on Knowledge Based and Intelligent information and Engineering Systems(KES)</a>

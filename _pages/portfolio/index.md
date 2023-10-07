@@ -3,20 +3,8 @@ layout: page
 title:  "Portfolio Projects"
 permalink: "/portfolio/"
 ---
-### 1. Smart Learning: student engagement prediction based student emotions and their eye gazes.
 
-<figure class="alignleft">
-	<img width="1166" height="250" src="https://github.com/ThuyTTT96/ThuyTTT96.github.io/blob/main/images/StudentEL.png?raw=true">
-</figure>
-*My current project as a research assistant in Research Center for Computing and Multimedia Studies, Hosei University. Currently, it is under public, the code still be private.*
-
-The project aims to develop a system that predicts student engagement in online classes by analyzing their emotions and eye gazes. It was built by a three-member team. My role is using deep learning and machine learning technique to build face recognition for identifying student ID in class. I process and analyze the after-class dataset resulting in a clear explanation to stakeholders.
-
-
-
-
-
-### 2. NLP data prediction models
+### 1. NLP data prediction models
 ***If you are interested in this work, please find the code <a href = "https://github.com/ThuyTTT96/Data-Prediction-Models-and-NLP"
 title = "Title">here.</a>***
 <figure class="aligncenter">
@@ -34,9 +22,9 @@ The logistic regression models are applied to classifiers the customer's review 
 The result shows that logistic regression can reach 9x.xx% accuracy in this data set.
 
 
-### 3. Deep Learning and Computer vision
+### 2. Deep Learning and Computer vision
 
-#### 3.1.  People search in surveillance camera network
+#### 2.1.  People search in surveillance camera network
 
 <iframe width="1166" height="656" src="https://www.youtube.com/embed/Ko8M0Uao6FE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
@@ -47,7 +35,7 @@ This project aims to retrieve people in the school camera system by applying dee
 
 
 
-#### 3.2. Image style transfer
+#### 2.2. Image style transfer
 ***If you are interested in this work, please find the code <a href = "https://github.com/ThuyTTT96/Deep-Learning-Models"
 title = "Title">here.</a>***
 <figure class="aligncenter">
@@ -59,7 +47,7 @@ After the content and style features are extracted, those features are trained i
 
 
 
-#### 3.3. Face recognition
+#### 2.3. Face recognition
 
 ***If you are interested in this work, please find the code <a href = "https://github.com/ThuyTTT96/Deep-Learning-Models/tree/main/facialrecognition"
 title = "Title">here.</a>***  
