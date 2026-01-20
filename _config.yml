@@ -6,9 +6,9 @@ title: Chloe Tran # the website title (if blank, full name will be used instead)
 first_name: Chloe 
 middle_name: T.
 last_name: Tran
-email: chloetran@hci.utah.edu
+email: chloetran.cs@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Bioinformatics Data Analyst at Huntsman Cancer Institute. Specializing in ML/AI, single-cell RNA-seq analysis, and drug repurposing for cancer immunotherapy.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

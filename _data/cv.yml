@@ -2,96 +2,92 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Chloe (Thuy) Tran
+    - name: Location
+      value: Murray, Utah, USA
+    - name: Email
+      value: chloetran.cs@gmail.com
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. in Computer Science and Engineering
+      institution: Hosei University, Tokyo, Japan
+      year: 2019 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "GPA: 3.51/4.0"
+        - "Thesis: Bi-directional intra prediction for compressive sensing images"
+    - title: B.S. in Computer Science
+      institution: University of Information Technology, VNU-HCM, Ho Chi Minh City, Vietnam
+      year: 2014 - 2019
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 3.20/4.0"
+        - "Thesis: A Computer vision-based system to find people in surveillance camera network"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Bioinformatics Data Analyst
+      institution: Huntsman Cancer Institute, Salt Lake City, UT
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Applied scDrug to pre-treatment ESCC scRNA-seq data to identify drug candidates targeting resistant tumor subpopulations
+        - Built a semi-supervised ML pipeline to track treatment resistance using scRNA-seq data
+        - Developed a full-stack React/Node.js app to visualize scRNA-seq data stored in HDF5 format
+        - Created a drug–gene interaction platform using 4 databases with 300K+ high-confidence interactions
+    - title: Software Engineer
+      institution: Rakuten Mobile Inc, Tokyo, Japan
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Created a monitoring dashboard for real-time Linux server health across 4G/5G RAN networks
+        - Automated system health data collection and anomaly detection using Streamlit and Python
+        - Generated weekly KPI reports and performed data analysis to enhance network performance
+    - title: Research Assistant
+      institution: Hosei University, Tokyo, Japan
+      year: 2021 - 2022
       description:
+        - Built an engagement detection system using MTCNN and Mini-Xception to analyze student behavior
+        - Created the MOEMO dashboard to visualize emotion and attention in online learning environments
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: AI Foundations for Oncology
+      year: 2025
+      description: Hands-on course applying 15 small, local AI models to oncology use cases
+    - title: Kidney Pathology Segmentation
+      year: 2024
+      description: Trained and compared CNNs and Transformer models (UNetR, Swin UNetR) with MONAI for segmenting CKD glands
+    - title: Voice-Guided Image Search with CLIP
+      year: 2023
+      description: Built a Streamlit app for noun learning using CLIP, Azure STT, and multilingual APIs
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, R, Shell Script
+    - title: ML/AI Frameworks
       items:
-        - Description 1.
-        - Description 2.
+        - Scikit-learn, PyTorch, MONAI, HuggingFace, CLIP, LLM, Ollama, RAG
+    - title: Data Analysis
+      items:
+        - NumPy, Pandas, Matplotlib, Seaborn, Seurat
+    - title: Web Development
+      items:
+        - Streamlit, React.js, Node.js, R Shiny
+    - title: Tools & Systems
+      items:
+        - GitHub, VS Code, Linux, HDF5, Slurm, Docker
 
-- title: Other Interests
-  type: list
+- title: Certifications
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2025
+      items:
+        - AI Foundations for Oncology
+    - year: 2021
+      items:
+        - The Machine Learning Pipeline on AWS
+        - Practical Data Science with Amazon SageMaker

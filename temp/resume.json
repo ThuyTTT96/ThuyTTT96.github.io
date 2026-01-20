@@ -1,0 +1,159 @@
+{
+  "source_file": "chloetran_resume_1228.pdf",
+  "candidate": {
+    "name": "Chloe Tran",
+    "location": "Murray, Utah, USA",
+    "email": "chloetran.cs@gmail.com",
+    "links": {
+      "website": null,
+      "github": null,
+      "google_scholar": null
+    }
+  },
+  "skills": {
+    "programming": ["Python", "R", "ShellScript"],
+    "ml_ai_frameworks": ["Scikit-learn", "PyTorch", "MONAI", "HuggingFace", "CLIP", "LLM", "Ollama", "RAG"],
+    "data_analysis": ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Seurat"],
+    "web_data_apps": ["Streamlit", "React.js", "Node.js", "Shiny server"],
+    "tools_systems": ["GitHub", "VS Code", "Linux", "HDF5", "Slurm", "Docker"]
+  },
+  "work_experience": [
+    {
+      "title": "Bioinformatics Data Analyst",
+      "company": "Huntsman Cancer Institute",
+      "start_date": "2024-05",
+      "end_date": null,
+      "is_current": true,
+      "location": "Salt Lake City, UT",
+      "highlights": [
+        "Applied scDrug to pre-treatment ESCC scRNA-seq data to identify drug candidates targeting resistant tumor subpopulations; predicted cell-death percentages using GDSC-based models for ICI combination strategies.",
+        "Built a semi-supervised ML pipeline to track treatment resistance using scRNA-seq data; predicted and validated candidate therapies using iDEA, integrating DSigDB and DREIMT.",
+        "Developed a full-stack React/Node.js app to visualize scRNA-seq data stored in HDF5 format; built and deployed a complementary R Shiny app to enable public data exploration.",
+        "Created a drug–gene interaction platform using 4 databases; standardized gene identifiers (HGNC, NCBI) and delivered a curated dataset of 300K+ high-confidence interactions."
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Rakuten Mobile Inc",
+      "start_date": "2022-04",
+      "end_date": "2023-06",
+      "is_current": false,
+      "location": "Tokyo, Japan",
+      "highlights": [
+        "Created a monitoring dashboard for real-time Linux server health across 4G/5G RAN networks.",
+        "Automated system health data collection and anomaly detection using Streamlit and Python.",
+        "Generated weekly KPI reports and performed data analysis to enhance network performance."
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "company": "Hosei University",
+      "start_date": "2021-04",
+      "end_date": "2022-03",
+      "is_current": false,
+      "location": "Tokyo, Japan",
+      "highlights": [
+        "Built an engagement detection system using MTCNN and Mini-Xception to analyze student behavior.",
+        "Created the MOEMO dashboard to visualize emotion and attention in online learning environments."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.S.",
+      "field": "Computer Science and Engineering",
+      "institution": "Hosei University",
+      "start_year": 2019,
+      "end_year": 2021,
+      "location": "Tokyo, Japan",
+      "gpa": "3.51/4.0",
+      "thesis": "Bi-directional intra prediction for compressive sensing images"
+    },
+    {
+      "degree": "B.S.",
+      "field": "Computer Science",
+      "institution": "University of Information Technology, VNU-HCM",
+      "start_year": 2014,
+      "end_year": 2019,
+      "location": "Ho Chi Minh City, Vietnam",
+      "gpa": "3.20/4.0",
+      "thesis": "A Computer vision-based system to find people in surveillance camera network"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Foundations for Oncology",
+      "description": "Hands-on course applying 15 small, local AI models to oncology use cases."
+    },
+    {
+      "name": "Kidney Pathology Segmentation",
+      "description": "Trained and compared CNNs and Transformer models (UNetR, Swin UNetR) with MONAI for segmenting CKD glands."
+    },
+    {
+      "name": "Voice-Guided Image Search with CLIP",
+      "description": "Built a Streamlit app for noun learning using CLIP, Azure STT, and multilingual APIs."
+    }
+  ],
+  "publications": [
+    {
+      "title": "Harnessing Single-Cell RNA-Seq for Computational Drug Repurposing in Cancer Immunotherapy",
+      "authors": ["Olivia J Cheng*", "TTT Tran*", "Y Ann Chen", "Aik Choon Tan"],
+      "venue": "Pharmaceuticals",
+      "year": 2025
+    },
+    {
+      "title": "Identification of anti-TIM-3 based checkpoint inhibitor combinations with activity in immunotherapy refractory melanoma models",
+      "authors": [
+        "Manali S Phadke",
+        "Jiannong Li",
+        "Sathya Sriramareddy",
+        "Paulo C Rodriguez",
+        "Brian Ruffell",
+        "Vincent C Luca",
+        "Thuy TT Tran",
+        "Yian Ann Chen",
+        "Keiran SM Smalley"
+      ],
+      "venue": "Journal for Immunotherapy of Cancer",
+      "year": 2025
+    },
+    {
+      "title": "Bi-directional intra prediction-based measurement coding for compressive sensing images.",
+      "authors": ["Thuy T. T. Tran", "J. Peetakul", "C. D. K. Pham", "J. Zhou"],
+      "venue": "IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP)",
+      "year": 2020
+    },
+    {
+      "title": "Students’ Emotion extraction and visualization for engagement detection in online learning",
+      "authors": ["Mohammad Nehal Hasnine", "Huyen T. T. Bui", "Thuy T. T. Tran", "Ho Tan Nguyen", "Gökhan Akçapınar", "Hiroshi Ueda"],
+      "venue": "25th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES)",
+      "year": 2021
+    },
+    {
+      "title": "A Real-Time Learning Analytics Dashboard for Automatic Detection of Online Learners’ Affective States",
+      "authors": ["MN Hasnine", "HT Nguyen", "Thuy T. T. Tran", "HTT Bui", "G Akçapınar", "Hiroshi Ueda"],
+      "venue": "Sensors 23 (9)",
+      "year": 2023
+    },
+    {
+      "title": "Exploring the Use of CLIP Model for Images Recommendation in Noun Memorization using Various Learning Context",
+      "authors": ["MN Hasnine", "Thuy T. T. Tran", "Hiroshi Ueda"],
+      "venue": "Bulletin of Research Center for Computing and Multimedia Studies, Hosei University",
+      "year": 2023
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Foundations for Oncology",
+      "date": "2025-12"
+    },
+    {
+      "name": "The Machine Learning Pipeline on AWS",
+      "date": "2021-12"
+    },
+    {
+      "name": "Practical Data Science with Amazon SageMaker",
+      "date": "2021-12"
+    }
+  ]
+}
